@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name bl652-breakout-board)(type KiCad)(uri "$(KIPRJMOD)/bl652-breakout-board.pretty")(options "")(descr ""))
+)
